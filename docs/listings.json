@@ -2,7 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/sliding window/index.html",
       "/posts/dp/index.html",
+      "/posts/cheatsheet/dfs/index.html",
       "/posts/dfs/index.html"
     ]
   }
